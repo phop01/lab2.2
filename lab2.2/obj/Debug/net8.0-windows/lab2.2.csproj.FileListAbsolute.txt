@@ -1,0 +1,16 @@
+C:\lab\lab2.2\lab2.2\bin\Debug\net8.0-windows\lab2.2.exe
+C:\lab\lab2.2\lab2.2\bin\Debug\net8.0-windows\lab2.2.deps.json
+C:\lab\lab2.2\lab2.2\bin\Debug\net8.0-windows\lab2.2.runtimeconfig.json
+C:\lab\lab2.2\lab2.2\bin\Debug\net8.0-windows\lab2.2.dll
+C:\lab\lab2.2\lab2.2\bin\Debug\net8.0-windows\lab2.2.pdb
+C:\lab\lab2.2\lab2.2\obj\Debug\net8.0-windows\lab2._2.Form1.resources
+C:\lab\lab2.2\lab2.2\obj\Debug\net8.0-windows\lab2.2.csproj.GenerateResource.cache
+C:\lab\lab2.2\lab2.2\obj\Debug\net8.0-windows\lab2.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\lab\lab2.2\lab2.2\obj\Debug\net8.0-windows\lab2.2.AssemblyInfoInputs.cache
+C:\lab\lab2.2\lab2.2\obj\Debug\net8.0-windows\lab2.2.AssemblyInfo.cs
+C:\lab\lab2.2\lab2.2\obj\Debug\net8.0-windows\lab2.2.csproj.CoreCompileInputs.cache
+C:\lab\lab2.2\lab2.2\obj\Debug\net8.0-windows\lab2.2.dll
+C:\lab\lab2.2\lab2.2\obj\Debug\net8.0-windows\refint\lab2.2.dll
+C:\lab\lab2.2\lab2.2\obj\Debug\net8.0-windows\lab2.2.pdb
+C:\lab\lab2.2\lab2.2\obj\Debug\net8.0-windows\lab2.2.genruntimeconfig.cache
+C:\lab\lab2.2\lab2.2\obj\Debug\net8.0-windows\ref\lab2.2.dll
